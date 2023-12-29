@@ -1,4 +1,4 @@
-TARGET := iphone:clang:latest:16.0
+TARGET := iphone:clang:latest:14.5
 
 ARCHS = arm64
 
